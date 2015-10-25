@@ -1,0 +1,20 @@
+{
+  "name": "todo",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0"
+  },
+  "version": "0.0.0",
+  "homepage": "https://github.com/farquhar86/notes",
+  "authors": [
+    "farquhar86 <farquharbradley@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
